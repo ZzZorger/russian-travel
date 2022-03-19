@@ -1,0 +1,10 @@
+@media screen and (max-width: 2560px){
+  .header__lang-links{
+   margin-bottom: 6px;
+  }
+}
+@media screen and (max-width: 425px){
+  .header__lang-links{
+   margin-bottom: 8px;
+  }
+}

@@ -1,0 +1,15 @@
+.header__link-en{
+  color: #FFFFFF;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.17;
+}
+
+@media (max-width: 320px) {
+  .header__link-en{
+    font-size: 18px;
+    line-height: 1.11;
+  }
+}
