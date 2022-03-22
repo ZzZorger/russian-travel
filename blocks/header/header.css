@@ -7,7 +7,8 @@
   margin: 0 auto;
   box-sizing: border-box;
   padding: 28px 48px 0;
-  max-width: 1184px;
+  /* max-width: 1184px; */
+  width: 100%;
 }
 
 @media (max-width: 1024px){

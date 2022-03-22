@@ -1,0 +1,10 @@
+.place{
+  max-width: 984px;
+  max-height: 660px;
+  display: grid;
+  grid-template-columns: 460px 484px;
+  /* grid-template-rows: 152px 460px; */
+  column-gap: 48px;
+  row-gap: 40px;
+  /* box-sizing: border-box; */
+}
