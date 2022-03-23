@@ -12,3 +12,10 @@
 .place__paragraph:last-child{
   padding-bottom: 0px;
 }
+
+@media (max-width: 768px){
+  .place__paragraph{
+    font-size: 16px;
+    padding-bottom: 25px;
+  }
+}
