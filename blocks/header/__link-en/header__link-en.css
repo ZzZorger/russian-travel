@@ -9,9 +9,9 @@
 .header__link-en:hover{
   opacity: 0.8;
 }
-@media (max-width: 320px) {
+@media (max-width: 425px) {
   .header__link-en{
-    font-size: 18px;
+    font-size: 5.625vw;
     line-height: 1.11;
   }
 }

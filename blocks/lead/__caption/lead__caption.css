@@ -8,17 +8,17 @@
   letter-spacing: 1.5px;
   text-transform: uppercase;
   margin: 0;
-  align-self: start;
   padding-top: 8px;
 }
 
-@media (max-width: 928px){
+@media (max-width: 1023px){
   .lead__caption{
-    padding-left: 24px;
+    /* padding-left: 24px; */
+    padding-left: 3.125vw;
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 767px) {
   .lead__caption{
-    padding-left: 16px;
+    padding-left: 5vw;
   }
 }
