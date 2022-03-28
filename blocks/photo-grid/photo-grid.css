@@ -1,7 +1,7 @@
 .photo-grid{
-  padding: 92px 48px;
+  padding: 92px 48px 0;
   display: grid;
-  max-width: 92.5%;
+  /* max-width: 92.5%; */
   gap: 16px;
   grid-template-columns: repeat(4, 1fr);
 }
@@ -23,7 +23,7 @@
   }
 }
 
-@media (max-width: 320px){
+@media (max-width: 425px){
   .photo-grid{
     padding: 64px 16px;
     gap: 12px;

@@ -8,9 +8,12 @@
   margin: 0;
 }
 
-@media (max-width: 768px){
+@media (max-width: 1023px){
   .place__title{
     font-size: 42px;
+    /* font-size: 5.46875vw; */
+    min-height: 92px;
+    min-width: 340px;
     line-height: 1.1;
     /* or 110% */
   }
