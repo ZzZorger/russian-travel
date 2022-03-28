@@ -34,7 +34,7 @@
     row-gap: 32px;
     grid-template-columns: 100%;
     grid-template-rows: auto auto auto auto;
-    padding-bottom: 73px;
+    padding-bottom: 50px;
   }
 }
 @media (max-width: 320px){
