@@ -1,13 +1,8 @@
 .cover{
-  padding: 92px 48px 0px;
+  padding: 0px 48px 0px;
 }
 @media (max-width: 1024px){
   .cover{
-    padding: 92px 0px 0px;
-  }
-}
-@media (max-width: 425px){
-  .cover{
-    padding: 66px 0 0 0;
+    padding: 0;
   }
 }

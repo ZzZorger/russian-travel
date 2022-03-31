@@ -1,6 +1,9 @@
 .footer__links{
   display: flex;
   flex-direction: row;
+  margin: 0;
+  list-style-type: none;
+  padding: 0;
 }
 @media (max-width: 767px){
   .footer__links{

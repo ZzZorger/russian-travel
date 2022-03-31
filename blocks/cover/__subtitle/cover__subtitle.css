@@ -10,12 +10,14 @@
   margin: 0;
   z-index: 2;
   position: relative;
+  /* padding-top: 32px; */
 }
-@media (max-width: 768px){
+@media (max-width: 425px){
   .cover__subtitle{
     font-size: 4.375vw;
     line-height: 1.14;
     /* or 114% */
     max-width: 90%;
+    /* padding-top: 5vw; */
   }
 }
