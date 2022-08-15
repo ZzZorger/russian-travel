@@ -12,4 +12,4 @@
 + Figma
 + GIT
 
-### [Ссылка на проект](https://zzzorger.github.io/russian-travel/)
+### [Ссылка на проект Russian travel](https://zzzorger.github.io/russian-travel/)
